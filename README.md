@@ -18,7 +18,7 @@ library(remotes)
 remotes::install)github("larsdelin/mathR")
 ```
 
-## Example
+## Basic Example
 
 This is a basic example which shows you how to add two vectors:
 
